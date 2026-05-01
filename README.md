@@ -1,6 +1,3 @@
-# robot-kinematics-matlab
-Explore ackermannKinematics and differentialDriveKinematics class from MATLAB
-
 # Mobile Robot Kinematic Simulations
 
 **Date:** May 2026  
@@ -63,4 +60,3 @@ $$\dot{\psi} = \frac{\psi_{desired} - \psi_{current}}{dt}$$
 *   **Navigation Toolbox**.
 
 ---
-*Created as part of a study on robotic kinematic modalities and MATLAB object-oriented simulation.*
